@@ -383,7 +383,6 @@ let tl7 = anime.timeline({
 
   .add({
     targets: '.blueyellow',
-    // top: ['1135px','925px'],
     easing: 'linear',
     opacity: 0,
     duration: 10,
